@@ -1,5 +1,6 @@
 <?php
-   define('DB_SERVER', 'localhost');
+/*esta mal el db_server ya que esta en otra maquina diferente visualizzarlo en details*/
+   define('DB_SERVER', '10.130.46.62');
    define('DB_USERNAME', 'root');
    define('DB_PASSWORD', 'rootroot');
    define('DB_DATABASE', 'pedidos');
